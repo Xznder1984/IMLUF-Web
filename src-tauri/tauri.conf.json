@@ -1,0 +1,46 @@
+{
+  "build": {
+    "beforeBuildCommand": "",
+    "beforeDevCommand": "",
+    "devPath": "../ui",
+    "distDir": "../ui"
+  },
+  "package": {
+    "productName": "IMF Browser",
+    "version": "0.1.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": true
+    },
+    "bundle": {
+      "active": true,
+      "category": "DeveloperTool",
+      "copyright": "IMF Browser Contributors",
+      "externalBin": [],
+      "icon": [],
+      "identifier": "com.imf.browser",
+      "longDescription": "A decentralized web browser with IMF protocol support.",
+      "publisher": "IMF",
+      "shortDescription": "Modern Rust-based IMF Browser",
+      "targets": ["all"],
+      "windows": {
+        "certificateThumbprint": null,
+        "digestAlgorithm": "sha256",
+        "timestampUrl": ""
+      }
+    },
+    "security": {
+      "csp": null
+    },
+    "windows": [
+      {
+        "title": "IMF Browser",
+        "width": 1280,
+        "height": 720,
+        "resizable": true,
+        "fullscreen": false
+      }
+    ]
+  }
+}

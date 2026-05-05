@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMF Browser</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="browser-shell">
+        <div id="tab-bar">
+            <div class="tab active" id="tab-1">
+                <span class="tab-title">New Tab</span>
+                <span class="tab-close">×</span>
+            </div>
+            <div id="add-tab">+</div>
+        </div>
+        <div id="nav-bar">
+            <div class="nav-buttons">
+                <button id="back">←</button>
+                <button id="forward">→</button>
+                <button id="reload">↻</button>
+            </div>
+            <div id="url-container">
+                <input type="text" id="url-input" placeholder="Enter URL (https:// or IMF:)...">
+            </div>
+            <div class="nav-actions">
+                <button id="btn-settings">⚙️</button>
+            </div>
+        </div>
+        <div id="content-area">
+            <iframe id="webview" src="about:blank"></iframe>
+        </div>
+    </div>
+
+    <!-- Settings Modal -->
+    <div id="modal" class="hidden">
+        <div class="modal-content">
+            <h2>IMF Domain Registry</h2>
+            <div class="form-group">
+                <input type="text" id="reg-domain" placeholder="domain.web">
+                <input type="number" id="reg-port" placeholder="Port (e.g. 8080)">
+                <input type="text" id="reg-url" placeholder="GitHub Pages URL (Optional)">
+                <button id="btn-register">Register Domain</button>
+            </div>
+            <hr>
+            <h2>Local Server</h2>
+            <div class="form-group">
+                <input type="text" id="srv-domain" placeholder="domain.web">
+                <input type="text" id="srv-dir" placeholder="C:/path/to/site">
+                <select id="srv-type">
+                    <option value="node">Node.js</option>
+                    <option value="python">Python</option>
+                </select>
+                <button id="btn-start-server">Start Server</button>
+            </div>
+            <button id="btn-close-modal">Close</button>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

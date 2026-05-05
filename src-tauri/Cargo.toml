@@ -1,0 +1,21 @@
+[package]
+name = "imf-browser"
+version = "0.1.0"
+edition = "2021"
+
+[build-dependencies]
+tauri-build = "1.5"
+
+[dependencies]
+tauri = { version = "1.5", features = ["shell-open", "api-all"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1.0", features = ["full"] }
+reqwest = { version = "0.11", features = ["json"] }
+aes-gcm = "0.10"
+aead = "0.5"
+rand = "0.8"
+url = "2.5"
+anyhow = "1.0"
+log = "0.4"
+env_logger = "0.10"
