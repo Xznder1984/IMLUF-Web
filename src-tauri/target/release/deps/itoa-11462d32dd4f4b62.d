@@ -1,0 +1,8 @@
+/mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/deps/itoa-11462d32dd4f4b62.d: /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/lib.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/u128_ext.rs
+
+/mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/deps/libitoa-11462d32dd4f4b62.rlib: /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/lib.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/u128_ext.rs
+
+/mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/deps/libitoa-11462d32dd4f4b62.rmeta: /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/lib.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/u128_ext.rs
+
+/home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/lib.rs:
+/home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/u128_ext.rs:

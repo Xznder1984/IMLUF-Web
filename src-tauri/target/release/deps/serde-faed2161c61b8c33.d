@@ -1,0 +1,14 @@
+/mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/deps/serde-faed2161c61b8c33.d: /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/build/serde-ad128613e3db8c78/out/private.rs
+
+/mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/deps/libserde-faed2161c61b8c33.rlib: /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/build/serde-ad128613e3db8c78/out/private.rs
+
+/mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/deps/libserde-faed2161c61b8c33.rmeta: /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/build/serde-ad128613e3db8c78/out/private.rs
+
+/home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/xznder/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/build/serde-ad128613e3db8c78/out/private.rs:
+
+# env-dep:OUT_DIR=/mnt/d/Albarr/Other-Stuff/Imluf-web/browser/src-tauri/target/release/build/serde-ad128613e3db8c78/out
