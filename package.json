@@ -1,0 +1,13 @@
+{
+  "name": "imf-browser",
+  "version": "0.1.0",
+  "description": "A decentralized web browser with IMF protocol support.",
+  "main": "main.js",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.0"
+  }
+}
